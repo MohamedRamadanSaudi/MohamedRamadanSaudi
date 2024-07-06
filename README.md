@@ -30,6 +30,11 @@ Third-year Computer Science student with a strong foundation in backend technolo
 Feb 2024 - Mar 2024
 - Developed backend architecture using node.js and MongoDB.
 - Implemented express.js for API development.
+- 
+#### Backend Developer (Freelancing)
+Jun 2024 - Jul 2024
+- Developed backend architecture using node.js and MongoDB.
+- Implemented express.js for API development.
 
 ### Skills
 - Languages: C++, JavaScript, TypeScript, SQL
