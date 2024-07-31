@@ -22,19 +22,7 @@ Here are some ideas to get you started:
 📱 Cell Number: +201015186744 | +201201042824
 
 ### Summary
-Third-year Computer Science student with a strong foundation in backend technologies. Proficient in node.js, MongoDB, and SQL.
-
-### Experience
-
-#### Backend Developer at mostaql.com (Freelancing)
-Feb 2024 - Mar 2024
-- Developed backend architecture using node.js and MongoDB.
-- Implemented express.js for API development.
-
-#### Backend Developer (Freelancing)
-Jun 2024 - Jul 2024
-- Developed backend architecture using node.js and MongoDB.
-- Implemented express.js for API development.
+Senior Computer Science student with a strong foundation in backend technologies. Proficient in node.js, MongoDB, and SQL.
 
 ### Skills
 - Languages: C++, JavaScript, TypeScript, SQL
