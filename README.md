@@ -14,17 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Mohamed Ramadan
+# I'm Mohamed Ramadan and I'm a Backend Engineer
 
-## Backend Developer
-
-📧 Email: MohamedRamadanSaudi@gmail.com  
-📱 Cell Number: +201015186744 | +201201042824
+📧 Email: MohamedRamadanSaudi@gmail.com 📱 Cell Number: +201015186744 | +201201042824
 
 ### Summary
-Senior Computer Science student with a strong foundation in backend technologies. Proficient in node.js, MongoDB, and SQL.
-
-### Skills
-- Languages: C++, JavaScript, TypeScript, SQL
-- Technologies: node.js, Express.js, MongoDB, React, Docker
-- Tools: Git, Unit Testing, RESTful API
+Senior Computer Science student with a strong foundation in backend technologies especially Node.js.
