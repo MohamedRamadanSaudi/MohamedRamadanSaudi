@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif)"  />
+<img align="right" height="150" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"  />
 
 ###
 
